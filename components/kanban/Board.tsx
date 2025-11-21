@@ -80,7 +80,7 @@ export function Board() {
         {/* Header */}
         <header className="bg-white border-b border-gray-200 px-6 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-gray-900">Kanban Board</h1>
+            <h1 className="text-2xl font-bold text-gray-900">Jaggi's Kanban</h1>
             <div className="flex items-center gap-3">
               <Button
                 variant="outline"
